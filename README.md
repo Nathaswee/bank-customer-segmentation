@@ -24,8 +24,11 @@ Power BI | DAX | Power Query | Excel | Tableau
 
 ## Screenshots
 
-![Customer Demographics](screenshots/customer-demographics.png)
+## Screenshots
 
-![Transaction Insights 1](screenshots/transaction-insights-1.png)
+![Customer Demographics](customer-demographics.png.png)
 
-![Transaction Insights 2](screenshots/transaction-insights-2.png)
+![Transaction Insights 1](transaction-insights-1.png.png)
+
+![Transaction Insights 2](transaction-insights-2.png.png)
+
